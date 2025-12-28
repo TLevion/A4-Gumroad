@@ -10,4 +10,4 @@ Configure digital product settings
 Optimize product presentation for sales
 
 Understand e-commerce platform requirements
-[Gumroad Product link](https://github.com/TLevion/A4-Gumroad.git)
+[Gumroad-Product-link](https://github.com/TLevion/A4-Gumroad.git)
